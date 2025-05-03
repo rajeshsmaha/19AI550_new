@@ -1,8 +1,8 @@
-# Ex.No: 4  Implementation of Kinematic movement -seek behavior in Unity
+# Ex.No: 5  Implementation of Kinematic movement -seek behavior in Unity
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER : 2122223040165
 ### AIM: 
-To write a program to simulate the process of seek behavior in Unity without NavigationMeshAgent. 
+To write a program to simulate the process of seek behavior in Unity 
 ### Algorithm:
 1. Create a New Unity Project by Open the  Unity Hub and create a new 3D Project,Name the project (e.g., SeekBehaviorDemo).
 2. Create the Moving Object
@@ -12,7 +12,7 @@ To write a program to simulate the process of seek behavior in Unity without Nav
    Right-click in the Hierarchy → 3D Object → Sphere (or any other shape).
    Rename it to Target. Move it away from Seeker, e.g., set Position to (5, 0, 5).
    Select the Target, add a Material, and change the color. (if needed) 
-4. Adding the Seek Behavior Script
+4. Adding the Seek Behavior ScriptA
    Create the Script-In the Project Window, go to the Assets folder.
    Right-click → Create → C# Script.
 5. Write a script for seek behavior and save it
@@ -54,9 +54,11 @@ public class Script : MonoBehaviour
 ### Output:
 
 
+![3](https://github.com/user-attachments/assets/0fdd759e-c887-408e-8890-9c6a0428b09d)
 
 
 
+![31](https://github.com/user-attachments/assets/80726927-8f6e-476c-b26f-16405a16a465)
 
 
 
